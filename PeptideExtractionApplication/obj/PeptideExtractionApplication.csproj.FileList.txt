@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PeptideExtractionApplication.Properties.Resources.resources
+obj\Debug\PeptideExtractionApplication.csproj.GenerateResource.Cache
+obj\Debug\PeptideExtractionApplication.Form1.resources
+bin\Debug\PeptideExtractionApplication.exe
+bin\Debug\PeptideExtractionApplication.pdb
+bin\Debug\PeptideDataTableGenerator.dll
+bin\Debug\PeptideGenerator.dll
+bin\Debug\PeptideDataTableGenerator.pdb
+bin\Debug\PeptideGenerator.pdb
+obj\Debug\PeptideExtractionApplication.exe
+obj\Debug\PeptideExtractionApplication.pdb
